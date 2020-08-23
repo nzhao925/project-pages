@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Project 1"
-description: "Description of Project #1"
+title: "Projects"
+description: "Description of Projects"
 header-img: "img/home-bg.jpg"
 category: project1
 ---
